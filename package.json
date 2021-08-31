@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Frankma17/server#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "pm2": "^5.1.1"
   }
 }
