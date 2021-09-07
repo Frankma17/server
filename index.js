@@ -1,6 +1,6 @@
 const express = require('express')
 const app = express()
-const port = process.argv[1]
+const port = process.argv[4]
 let status = 202;
 
 app.get('/', (req, res) => {
